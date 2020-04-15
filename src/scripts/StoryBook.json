@@ -1,0 +1,22 @@
+[
+    {
+        "prompts": [
+            "Diga-me um nome:",
+            "Agora um alimento!",
+            "Um filme?",
+            "Preciso de um numero...",
+            "Um animal foda?"
+        ],
+        "story": "Muito distante de nossas terras, o sabio %s, comia deliciosas e sexys %s, ate perceber que em sua tela plana, estava a passar %s, um bom filme produzido pela humanidade durante o seculo %s. Largando tudo, tal sabio iniciaste um ritual que causaria a maldicao a todos os %s..."
+    },
+    {
+        "prompts": [
+            "Uma cidade.",
+            "Nome de uma família importante!",
+            "Estou carente de cores, fale-me uma:",
+            "Um jornalista por favor?",
+            "Adjetivo..."
+        ],
+        "story": "Perto de %s, moravam os %s, eram renomados e conhecidos por suas roupas, todas tingidas de %s, isso muda quando %s aparece! Este sendo o mais %s jornalista, acabou com a reputacao de tal familia, empobreceu-os, e criou o meme dos dancarinos do caixao..."
+    }
+]

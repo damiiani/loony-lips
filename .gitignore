@@ -1,0 +1,7 @@
+.import/
+assets/
+bin/
+
+*.png
+*.jpg
+*.import
